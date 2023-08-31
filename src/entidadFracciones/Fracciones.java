@@ -7,6 +7,7 @@ public class Fracciones {
     private int denominador;
     private int nume1;
     private int deno1;
+    private int num;
 
     public Fracciones() {
     }
