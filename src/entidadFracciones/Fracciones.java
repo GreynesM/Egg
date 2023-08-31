@@ -8,6 +8,7 @@ public class Fracciones {
     private int nume1;
     private int deno1;
     private int num;
+    private String greynes;
 
     public Fracciones() {
     }
